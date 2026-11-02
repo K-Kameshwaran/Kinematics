@@ -1,0 +1,6 @@
+{
+  "name": "Kinematics",
+  "description": "Interactive 3D Robot Manipulator Simulator & Kinematics Laboratory featuring UR10e, UR5e, UR3e, DH parameters, forward and numerical inverse kinematics, python-urx API emulation, and whiteboard drawing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
